@@ -52,7 +52,7 @@
 <p align="center">
 <a href="https://github.com/aflores90">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aflores90&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aflores90&default=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aflores90&default=compact&langs_count=8&theme=algolia&range=last_100_days"/>
 </a>
 </p>
 
