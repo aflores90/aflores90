@@ -8,7 +8,6 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Flutter to make mobile applications.\
 🌱 &nbsp;I'm on track for learning more about Mobile Applications, UX, UI and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at eafloresc9@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.linkedin.com/posts/afloresc9_cv-activity-6929838365852774400-9ySO?utm_source=linkedin_share&utm_medium=member_desktop_web) for more details about me. I'm open to feedback and suggestions!
