@@ -60,6 +60,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/afloresc9/"><img src="https://img.shields.io/badge/-afloresc9-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:eafloresc9@gmail.com"><img src="https://img.shields.io/badge/-eaflroesc9@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:eafloresc9@gmail.com"><img src="https://img.shields.io/badge/-eafloresc9@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/afloresc9/"><img src="https://img.shields.io/badge/-@afloresc9-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
